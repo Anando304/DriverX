@@ -7,4 +7,8 @@ with the common driving routes in their city.
 
 Cities currently include Brampton & Toronto but will continuously expand to cover the GTA and all of Ontario.
 
+API's Used: Here Maps, Firebase Database
+
+IDE: Android Studio
+
 Developed by Anando Zaman  &  Sajal Chodha
