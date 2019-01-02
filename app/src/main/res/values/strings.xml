@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">G2_G_App</string>
+
+    <string name="navigation_speed_label_km">km/h</string>
+    <string name="navigation_speed_label_m">m/h</string>
+
+    <string name="navigation_speed_limit_default">N/A</string>
+    <string name="g2level">g2level</string>
+    <string name="glevel">glevel</string>
+    <string name="enter_city_here">Enter city here</string>
+    <string name="splashscreen">splashscreen</string>
+</resources>
