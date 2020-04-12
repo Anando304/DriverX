@@ -1,4 +1,4 @@
-# G2_G_DriversAPP
+# DriverX
 An intuitive app designed to help drivers simulate the G/G2 driving test in Ontario. 
 It works by having the user follow specific driving routes using hands-free turn by turn navigation through the Here Maps API. 
 The application reads all the necessary data from the Firebase database and displays the information to the user such as speed limits,
